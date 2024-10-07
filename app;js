@@ -1,0 +1,15 @@
+function CriaCartao(categoria, pergunta, resposta) {
+    let container = document.getElementById('container');
+    let cartao = document.createElement('article')
+    cartao.className = 'cartao';
+}
+
+cartao.innerHTML = 
+</div
+</article>
+<article class="cartao"></article>
+<div class="cartao_conteúdo"></div>
+    <h3>Programação</h3>
+    <div class="cartao_conteúdo_pergunta">
+        O que é JavaScript
+    </div>
